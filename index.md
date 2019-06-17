@@ -6,7 +6,7 @@ layout: default
 >
 > R: **Review** AT LEAST ONE technical reading and brief out what you learn from it.
 >
-> T: Write AT LEAST ONE technical **tip** from daily work.
+> T: Learn AT LEAST ONE knowledge **tip** from daily work.
 >
 > S: **Share** AT LEAST ONE thoughtful view or article.
 
