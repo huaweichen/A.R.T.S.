@@ -2,6 +2,14 @@
 layout: default
 ---
 
+> A: Resolve AT LEAST ONE **Algorithm** problem in [leetcode](https://leetcode.com).
+>
+> R: **Review** AT LEAST ONE technical reading and brief out what you learn from it.
+>
+> T: Write AT LEAST ONE technical **tip** from daily work.
+>
+> S: **Share** AT LEAST ONE thoughtful view or article.
+
 # Table of A.R.T.S.
 
 | Date | A.R.T.S. Link |
