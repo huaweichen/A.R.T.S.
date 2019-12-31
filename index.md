@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  "A.R.T.S."
 ---
 
 {% if page.url != '/search.html' %}
