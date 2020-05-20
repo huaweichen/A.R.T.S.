@@ -12,6 +12,8 @@ title:  "A.R.T.S."
 <hr>
 {% endif %}
 
-| A.R.T.S. List |
-| ------------- |
-| [2019-06-17 -- 2019-06-23](/2019-week-25.html) |
+| Title | Excerpt |
+|:---:|:---:|
+{% for post in site.posts -%}
+| [{{ post.title }}]({{ post.url }}) | {{ post.excerpt | strip_html}} |
+{% endfor -%}
